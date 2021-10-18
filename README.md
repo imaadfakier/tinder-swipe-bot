@@ -1,2 +1,2 @@
-# tinder-swipe-bot
+# Tinder Swipe Bot
 Swipe right forever.
